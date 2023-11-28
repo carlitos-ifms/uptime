@@ -37,7 +37,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: carlitos-ifms.github.io
+  cname: carlitos-ifms.github.io/uptime
   baseUrl: /uptime
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/3/3b/Instituto_Federal_de_Mato_Grosso_do_Sul_-_Marca_Vertical_2015.svg
   name: Uptime IFMS

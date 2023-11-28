@@ -21,8 +21,6 @@ sites:
     url: https://matricula.ifms.edu.br
   - name: Questionário Socioeconômico
     url: https://qse.ifms.edu.br
-  - name: Questionário Socioeconômico
-    url: https://qse.ifms.edu.br
   - name: Biblioteca
     url: http://biblioteca.ifms.edu.br
   - name: Sistemas

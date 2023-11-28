@@ -31,6 +31,10 @@ sites:
     url: https://helios.ifms.edu.br
   - name: Dados Abertos
     url: http://dados.ifms.edu.br    
+  - name: Autoavaliação (CPA)
+    url: https://autoavaliacao.ifms.edu.br/login 
+  - name: Avaliação de Desempenho
+    url: http://desempenho.ifms.edu.br/ 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

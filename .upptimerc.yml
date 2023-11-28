@@ -1,26 +1,48 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: carlitos-ifms # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Site
+    url: https://www.ifms.edu.br
+  - name: SUAP
+    url: https://suap.ifms.edu.br
+  - name: Sistema Acadêmico (Administrativo)
+    url: https://academico.ifms.edu.br/administrativo
+  - name: Sistema Acadêmico (Área do Estudante)
+    url: https://academico.ifms.edu.br
+  - name: Central de Seleção  
+    url: https://selecao.ifms.edu.br
+  - name: Moodle (Ead)
+    url: https://ead.ifms.edu.br
+  - name: Cursos Livres
+    url: https://cursoslivres.ifms.edu.br
+  - name: Matrícula
+    url: https://matricula.ifms.edu.br
+  - name: Questionário Socioeconômico
+    url: https://qse.ifms.edu.br
+  - name: Questionário Socioeconômico
+    url: https://qse.ifms.edu.br
+  - name: Biblioteca
+    url: http://biblioteca.ifms.edu.br
+  - name: Sistemas
+    url: http://sistemas.ifms.edu.br
+  - name: Verifica
+    url: https://verifica.ifms.edu.br
+  - name: Helios
+    url: https://helios.ifms.edu.br
+  - name: Dados Abertos
+    url: http://dados.ifms.edu.br    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: carlitos-ifms.github.io
+  baseUrl: /uptime
+  logoUrl: https://upload.wikimedia.org/wikipedia/commons/3/3b/Instituto_Federal_de_Mato_Grosso_do_Sul_-_Marca_Vertical_2015.svg
+  name: Uptime IFMS
+  introTitle: "Monitor de status de página e tempo de atividade"
+  introMessage: ""
   navbar:
     - title: Status
       href: /

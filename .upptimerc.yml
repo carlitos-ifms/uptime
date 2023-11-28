@@ -34,7 +34,11 @@ sites:
   - name: Autoavaliação (CPA)
     url: https://autoavaliacao.ifms.edu.br/login 
   - name: Avaliação de Desempenho
-    url: http://desempenho.ifms.edu.br/ 
+    url: http://desempenho.ifms.edu.br
+  - name: Service Desk (SD)
+    url: https://sd.ifms.edu.br
+  - name: Portal do Servidor
+    url: https://servidor.ifms.edu.br
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -26,7 +26,7 @@ sites:
   - name: Sistemas
     url: http://sistemas.ifms.edu.br
   - name: Verifica
-    url: https://verifica.ifms.edu.br
+    url: https://verifica.ifms.edu.br/ead/5cdb04be-5f88-4b97-8528-33620a01001c
   - name: Helios
     url: https://helios.ifms.edu.br
   - name: Dados Abertos

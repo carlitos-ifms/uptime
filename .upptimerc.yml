@@ -11,7 +11,7 @@ sites:
     url: https://academico.ifms.edu.br/administrativo
   - name: Sistema Acadêmico (Área do Estudante)
     url: https://academico.ifms.edu.br
-  - name: Central de Seleção  
+  - name: Central de Seleção
     url: http://selecao.ifms.edu.br
   - name: Moodle (Ead)
     url: https://ead.ifms.edu.br

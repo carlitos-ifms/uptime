@@ -4,19 +4,19 @@
     "url": "https://www.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.ifms.edu.br.ico",
     "slug": "site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5852,
-    "timeDay": 3278,
-    "timeWeek": 5134,
-    "timeMonth": 5852,
-    "timeYear": 5852,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 5925,
+    "timeDay": 5328,
+    "timeWeek": 5414,
+    "timeMonth": 5925,
+    "timeYear": 5925,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 11
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-05": 1348,
+      "2023-12-05": 1360,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -311,18 +311,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sd.ifms.edu.br.ico",
     "slug": "service-desk-sd",
     "status": "down",
-    "uptime": "95.29%",
-    "uptimeDay": "66.23%",
-    "uptimeWeek": "95.18%",
-    "uptimeMonth": "95.29%",
-    "uptimeYear": "95.29%",
+    "uptime": "95.18%",
+    "uptimeDay": "65.43%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "95.18%",
+    "uptimeYear": "95.18%",
     "time": 1621,
     "timeDay": 818,
     "timeWeek": 1452,
     "timeMonth": 1621,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2023-12-05": 486
+      "2023-12-05": 498
     }
   },
   {

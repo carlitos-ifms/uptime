@@ -22,7 +22,7 @@ sites:
   - name: Questionário Socioeconômico
     url: https://qse.ifms.edu.br
   - name: Biblioteca
-    url: http://biblioteca.ifms.edu.br
+    url: https://biblioteca.ifms.edu.br
   - name: Sistemas
     url: http://sistemas.ifms.edu.br
   - name: Verifica

@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ifms.edu.br.ico",
     "slug": "site",
     "status": "up",
-    "uptime": "33.62%",
+    "uptime": "33.63%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "99.21%",
-    "uptimeMonth": "31.68%",
-    "uptimeYear": "33.62%",
+    "uptimeMonth": "31.71%",
+    "uptimeYear": "33.63%",
     "time": 2883,
     "timeDay": 3174,
     "timeWeek": 6415,
@@ -102,7 +102,7 @@
     "timeMonth": 143,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-01-25": 1282,
+      "2024-01-25": 1294,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -172,7 +172,7 @@
     "timeMonth": 10,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-01-25": 1282,
+      "2024-01-25": 1294,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -242,7 +242,7 @@
     "timeMonth": 133,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-01-25": 1282,
+      "2024-01-25": 1294,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -326,19 +326,19 @@
     "url": "https://cursoslivres.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/cursoslivres.ifms.edu.br.ico",
     "slug": "cursos-livres",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1648,
-    "timeDay": 1727,
-    "timeWeek": 1364,
-    "timeMonth": 1258,
-    "timeYear": 1648,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1744,
+    "timeDay": 5252,
+    "timeWeek": 2291,
+    "timeMonth": 1493,
+    "timeYear": 1744,
     "dailyMinutesDown": {
-      "2024-01-25": 1
+      "2024-01-25": 11
     }
   },
   {
@@ -406,7 +406,7 @@
     "timeMonth": 0,
     "timeYear": 3386,
     "dailyMinutesDown": {
-      "2024-01-25": 1282,
+      "2024-01-25": 1294,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -503,10 +503,10 @@
     "url": "https://helios.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/helios.ifms.edu.br.ico",
     "slug": "helios",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
@@ -514,7 +514,9 @@
     "timeWeek": 647,
     "timeMonth": 581,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 1
+    }
   },
   {
     "name": "Dados Abertos",
@@ -551,7 +553,7 @@
     "timeMonth": 0,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2024-01-25": 1282,
+      "2024-01-25": 1294,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -629,7 +631,7 @@
     "timeMonth": 75,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2024-01-25": 1282,
+      "2024-01-25": 1294,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,

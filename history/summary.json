@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ifms.edu.br.ico",
     "slug": "site",
     "status": "up",
-    "uptime": "33.71%",
+    "uptime": "33.72%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "99.21%",
-    "uptimeMonth": "31.95%",
-    "uptimeYear": "33.71%",
+    "uptimeMonth": "31.98%",
+    "uptimeYear": "33.72%",
     "time": 2883,
     "timeDay": 3063,
     "timeWeek": 6383,
@@ -68,9 +68,9 @@
     "slug": "suap",
     "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.00%",
     "time": 2130,
     "timeDay": 1991,
@@ -78,7 +78,6 @@
     "timeMonth": 1626,
     "timeYear": 2130,
     "dailyMinutesDown": {
-      "2024-01-25": 7,
       "2023-12-19": 22,
       "2023-12-18": 1248,
       "2023-12-17": 1440,
@@ -103,7 +102,7 @@
     "timeMonth": 141,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-01-25": 1402,
+      "2024-01-25": 1415,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -173,7 +172,7 @@
     "timeMonth": 11,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-01-25": 1402,
+      "2024-01-25": 1415,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -243,7 +242,7 @@
     "timeMonth": 130,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-01-25": 1402,
+      "2024-01-25": 1415,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -309,28 +308,30 @@
     "url": "https://ead.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/ead.ifms.edu.br.ico",
     "slug": "moodle-ead",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2564,
     "timeDay": 10534,
     "timeWeek": 4001,
     "timeMonth": 2890,
     "timeYear": 2564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 2
+    }
   },
   {
     "name": "Cursos Livres",
     "url": "https://cursoslivres.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/cursoslivres.ifms.edu.br.ico",
     "slug": "cursos-livres",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1831,
@@ -338,7 +339,9 @@
     "timeWeek": 3028,
     "timeMonth": 1730,
     "timeYear": 1831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 2
+    }
   },
   {
     "name": "Matrícula",
@@ -406,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 3386,
     "dailyMinutesDown": {
-      "2024-01-25": 1402,
+      "2024-01-25": 1415,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -461,11 +464,11 @@
     "url": "http://sistemas.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/sistemas.ifms.edu.br.ico",
     "slug": "sistemas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.14%",
     "time": 1224,
     "timeDay": 1053,
@@ -473,7 +476,7 @@
     "timeMonth": 1009,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2024-01-25": 15,
+      "2024-01-25": 16,
       "2023-12-11": 709
     }
   },
@@ -482,11 +485,11 @@
     "url": "https://verifica.ifms.edu.br/ead/5cdb04be-5f88-4b97-8528-33620a01001c",
     "icon": "https://icons.duckduckgo.com/ip3/verifica.ifms.edu.br.ico",
     "slug": "verifica",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 756,
     "timeDay": 595,
@@ -494,7 +497,7 @@
     "timeMonth": 546,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2024-01-25": 21,
+      "2024-01-25": 16,
       "2024-01-10": 27,
       "2023-11-28": 37
     }
@@ -554,7 +557,7 @@
     "timeMonth": 0,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2024-01-25": 1402,
+      "2024-01-25": 1415,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -632,7 +635,7 @@
     "timeMonth": 76,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-01-25": 1402,
+      "2024-01-25": 1415,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -687,19 +690,19 @@
     "url": "https://servidor.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/servidor.ifms.edu.br.ico",
     "slug": "portal-do-servidor",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 1561,
-    "timeDay": 5000,
-    "timeWeek": 2711,
-    "timeMonth": 1647,
-    "timeYear": 1561,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 1556,
+    "timeDay": 4233,
+    "timeWeek": 2570,
+    "timeMonth": 1633,
+    "timeYear": 1556,
     "dailyMinutesDown": {
-      "2024-01-25": 15
+      "2024-01-25": 28
     }
   }
 ]

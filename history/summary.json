@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ifms.edu.br.ico",
     "slug": "site",
     "status": "up",
-    "uptime": "33.86%",
+    "uptime": "33.87%",
     "uptimeDay": "96.43%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "32.44%",
-    "uptimeYear": "33.86%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "32.46%",
+    "uptimeYear": "33.87%",
     "time": 3004,
     "timeDay": 6206,
     "timeWeek": 5738,
@@ -103,7 +103,7 @@
     "timeMonth": 141,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-01-26": 225,
+      "2024-01-26": 236,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -174,7 +174,7 @@
     "timeMonth": 11,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-01-26": 225,
+      "2024-01-26": 236,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -245,7 +245,7 @@
     "timeMonth": 130,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-01-26": 225,
+      "2024-01-26": 236,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -348,10 +348,10 @@
     "url": "https://matricula.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/matricula.ifms.edu.br.ico",
     "slug": "matricula",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 1365,
@@ -360,6 +360,7 @@
     "timeMonth": 1120,
     "timeYear": 1365,
     "dailyMinutesDown": {
+      "2024-01-26": 1,
       "2024-01-25": 22,
       "2024-01-09": 39
     }
@@ -409,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 3386,
     "dailyMinutesDown": {
-      "2024-01-26": 225,
+      "2024-01-26": 236,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -563,7 +564,7 @@
     "timeMonth": 0,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2024-01-26": 225,
+      "2024-01-26": 236,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -612,19 +613,19 @@
     "url": "http://desempenho.ifms.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/desempenho.ifms.edu.br.ico",
     "slug": "avaliacao-de-desempenho",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.89%",
-    "time": 808,
-    "timeDay": 492,
-    "timeWeek": 522,
-    "timeMonth": 508,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.79%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.88%",
+    "time": 911,
+    "timeDay": 2314,
+    "timeWeek": 1248,
+    "timeMonth": 722,
+    "timeYear": 911,
     "dailyMinutesDown": {
-      "2024-01-26": 92
+      "2024-01-26": 103
     }
   },
   {
@@ -644,7 +645,7 @@
     "timeMonth": 76,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-01-26": 225,
+      "2024-01-26": 236,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,

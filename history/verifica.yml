@@ -1,7 +1,7 @@
 url: https://verifica.ifms.edu.br/ead/5cdb04be-5f88-4b97-8528-33620a01001c
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-28T21:45:52.387Z
+status: up
+code: 200
+responseTime: 528
+lastUpdated: 2024-01-28T21:57:04.259Z
 startTime: 2023-11-28T17:16:15.985Z
 generator: Upptime <https://github.com/upptime/upptime>
